@@ -1,14 +1,23 @@
 #Awesome WordPress Developer Tips
 > Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 
+##Why
+This list is born from a real workflow in my development in WordPress, sometimes you don't need or not exist a library that do a specific stuff very well with a real case to study.  
+When i need something like that i search for other plugins that do that stuff to study and replicate, better if possible. For that reason i remember many plugins what they do and i search for recreate the same UX/UI. This list infact contain reference to plugins or docs but not to tutorials.  
+In this way is possible see in action also the workaround used and more important a case study.  
+In few words this is a list for skilled WordPress developers that want a simple way to found specific code (in the mainly case that use an hook).  
+
+PS: Part * is used because sometimes the code is splitted (maybe an hook declaration and a function).
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
 - [Core](#core)
-- [AJAX](#AJAX)
-- [JSON REST API official](#JSON-REST-API-official)
-- [External plugin](#External-plugin)
+- [AJAX](#ajax)
+- [JSON REST API official](#json-rest-api-official)
+- [External plugin](#external-plugin)
+- [Other lists](#other-lists)
 
 ##Core
 
@@ -17,7 +26,9 @@
 * Add links to Plugin in Plugin list - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/admin%2Fclass-datask-admin.php#L214), [Part 2](https://github.com/Mte90/DaTask/blob/master/admin%2Fclass-datask-admin.php#L60)
 * Add links to User in User list with action - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/admin%2Fincludes%2FDT_User_Backend.php)
 * Add link in menu top bar - Code from [WP Find Function](https://wordpress.org/plugins/find-function) plugin: [Part 1](https://github.com/Mte90/WP-Find-Function/blob/master/find-function.php#L46), [Part 2](https://github.com/Mte90/WP-Find-Function/blob/master/find-function.php#L92)
+* Add custom post type in search box - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L130), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L311)
 * Detect the page in backend - Code from [AdRotate Extra Settings](https://wordpress.org/plugins/adrotate-extra-settings/) plugin: [Part 1](https://github.com/Mte90/AdRotate-Extra-Settings/blob/master/admin%2Fclass-adrotate-extra-settings-admin.php#L57)
+* Load a text domain - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fincludes%2Fload_textdomain.php)
 * Nonce for guest user - [Snippet](https://gist.github.com/Mte90/a1b6443aabe14386fa3b)
 
 ##AJAX
@@ -28,11 +39,15 @@
 
 ##JSON REST API official
 
-* Use v1 and v2 to add meta field - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_API.php)
+* Add meta field on v1 and v2 in readonly - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_API.php)
 
 ##External plugin
 
 * Support for BadgeOS trigger - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_BadgeOS.php)
+
+##Other lists
+
+* WordPress Plugin Boilerplate Powered - [External useful resources](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/wiki/Useful-resources-or-code-examples)
 
 ## License
 
