@@ -3,7 +3,7 @@
 
 ##Why
 This list is born from a real workflow in my development in WordPress, sometimes you don't need or not exist a library that do a specific stuff very well with a real case to study.  
-When i need something like that i search for other plugins that do that stuff to study and replicate, better if possible. For that reason i remember many plugins what they do and i search for recreate the same UX/UI. This list infact contain reference to plugins or docs but not to tutorials.  
+When i need something like that I search for other plugins that do that stuff to study and replicate, better if possible. For that reason I remember many plugins what they do and I search for recreate the same UX/UI. This list infact contain reference to plugins or docs but not to tutorials.  
 In this way is possible see in action also the workaround used and more important a case study.  
 In few words this is a list for skilled WordPress developers that want a simple way to found specific code (in the mainly case that use an hook).  
 
@@ -18,6 +18,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 - [AJAX](#ajax)
 - [JSON REST API official](#json-rest-api-official)
 - [External plugin](#external-plugin)
+- [Hacks](#hacks)
 - [Other lists](#other-lists)
 
 ##Core
@@ -30,8 +31,10 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Add custom post type in search box - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L130), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L311)
 * Add custom post type in Activity Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L85), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L402)
 * Add custom post type in At Glance Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L83), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L374)
+* Add thumbnail in post type list in backend - Code from [Ubik-Admin](https://github.com/synapticism/ubik-admin) - [Part1](https://github.com/synapticism/ubik-admin/blob/master/ubik-admin/ubik-admin-post-list-thumbs.php)
 * Detect the page in backend - Code from [AdRotate Extra Settings](https://wordpress.org/plugins/adrotate-extra-settings/) plugin: [Part 1](https://github.com/Mte90/AdRotate-Extra-Settings/blob/master/admin%2Fclass-adrotate-extra-settings-admin.php#L57)
 * Load a text domain - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fincludes%2Fload_textdomain.php)
+* Sort Taxonomy by taxonomy terms - By [Scribu](http://scribu.net/): [Snippet](http://scribu.net/wordpress/sortable-taxonomy-columns.html)
 * Nonce for guest user - [Snippet](https://gist.github.com/Mte90/a1b6443aabe14386fa3b)
 
 ##AJAX
@@ -43,10 +46,16 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 ##JSON REST API official
 
 * Add meta field on v1 and v2 in readonly - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_API.php)
+* Extend Wp Rest API v2 - Demo Plugin by [Pete Nelson](https://github.com/petenelson/extending-wp-rest-api)
 
 ##External plugin
 
 * Support for BadgeOS trigger - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_BadgeOS.php)
+
+##Hacks
+
+* Rename custom meta name - SQL Query by [Tom Waters](http://stackoverflow.com/users/383635/tom-walters): [Command](http://stackoverflow.com/questions/6649285/renaming-custom-fields)
+* Optimizing wp_options for Speed - Article by [Pressjitsu](https://pressjitsu.com/): [Article](https://pressjitsu.com/blog/optimizing-wp-options-for-speed/)
 
 ##Other lists
 
