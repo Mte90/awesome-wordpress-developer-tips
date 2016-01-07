@@ -7,7 +7,8 @@ When i need something like that i search for other plugins that do that stuff to
 In this way is possible see in action also the workaround used and more important a case study.  
 In few words this is a list for skilled WordPress developers that want a simple way to found specific code (in the mainly case that use an hook).  
 
-PS: Part * is used because sometimes the code is splitted (maybe an hook declaration and a function).
+PS: Part * is used because sometimes the code is splitted (maybe an hook declaration and a function).  
+PSS: Sometimes the code can be in the wrong line because the line is changed, search in that page or open a ticket to fix that page.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -27,6 +28,8 @@ PS: Part * is used because sometimes the code is splitted (maybe an hook declara
 * Add links to User in User list with action - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/admin%2Fincludes%2FDT_User_Backend.php)
 * Add link in menu top bar - Code from [WP Find Function](https://wordpress.org/plugins/find-function) plugin: [Part 1](https://github.com/Mte90/WP-Find-Function/blob/master/find-function.php#L46), [Part 2](https://github.com/Mte90/WP-Find-Function/blob/master/find-function.php#L92)
 * Add custom post type in search box - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L130), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L311)
+* Add custom post type in Activity Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L85), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L402)
+* Add custom post type in At Glance Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L83), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L374)
 * Detect the page in backend - Code from [AdRotate Extra Settings](https://wordpress.org/plugins/adrotate-extra-settings/) plugin: [Part 1](https://github.com/Mte90/AdRotate-Extra-Settings/blob/master/admin%2Fclass-adrotate-extra-settings-admin.php#L57)
 * Load a text domain - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fincludes%2Fload_textdomain.php)
 * Nonce for guest user - [Snippet](https://gist.github.com/Mte90/a1b6443aabe14386fa3b)
