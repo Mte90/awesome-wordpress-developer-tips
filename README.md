@@ -29,14 +29,15 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Add links to Plugin in Plugin list - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/admin%2Fclass-datask-admin.php#L214), [Part 2](https://github.com/Mte90/DaTask/blob/master/admin%2Fclass-datask-admin.php#L60)
 * Add links to User in User list with action - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/admin%2Fincludes%2FDT_User_Backend.php)
 * Add link in menu top bar - Code from [WP Find Function](https://wordpress.org/plugins/find-function) plugin: [Part 1](https://github.com/Mte90/WP-Find-Function/blob/master/find-function.php#L46), [Part 2](https://github.com/Mte90/WP-Find-Function/blob/master/find-function.php#L92)
-* Add custom post type in search box - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L130), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L311)
-* Add custom post type in Activity Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L85), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L402)
-* Add custom post type in At Glance Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L83), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fclass-plugin-name-admin.php#L374)
+* Add custom post type in search box - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L126), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fpublic%2Fclass-plugin-name.php#L228)
+* Add custom post type in Activity Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fincludes%2FPN_Extras.php#L25), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fincludes%2FPN_Extras.php#L61)
+* Add custom post type in At Glance Dashboard widget - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fincludes%2FPN_Extras.php#L23), [Part 2](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fincludes%2FPN_Extras.php#L30)
 * Add thumbnail in post type list in backend - Code from [Ubik-Admin](https://github.com/synapticism/ubik-admin) - [Part1](https://github.com/synapticism/ubik-admin/blob/master/ubik-admin/ubik-admin-post-list-thumbs.php)
 * Detect the page in backend - Code from [AdRotate Extra Settings](https://wordpress.org/plugins/adrotate-extra-settings/) plugin: [Part 1](https://github.com/Mte90/AdRotate-Extra-Settings/blob/master/admin%2Fclass-adrotate-extra-settings-admin.php#L57)
 * Load a text domain - Code from [WordPress Plugin Boilerplate Powered](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered): [Part 1](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fincludes%2Fload_textdomain.php)
 * Sort Taxonomy by taxonomy terms - By [Scribu](http://scribu.net/): [Snippet](http://scribu.net/wordpress/sortable-taxonomy-columns.html)
 * Nonce for guest user - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/a1b6443aabe14386fa3b)
+* Transient example with external request - By [Mte90](http://mte90.net/): [Snippet](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name%2Fadmin%2Fincludes%2FPN_Extras.php#L138)
 
 ##AJAX
 
@@ -57,6 +58,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 
 * Rename custom meta name - SQL Query by [Tom Waters](http://stackoverflow.com/users/383635/tom-walters): [Command](http://stackoverflow.com/questions/6649285/renaming-custom-fields)
 * Optimizing wp_options for Speed - Article by [Pressjitsu](https://pressjitsu.com/): [Article](https://pressjitsu.com/blog/optimizing-wp-options-for-speed/)
+* Life of a Front-end WordPress Request - Article by [Roots](https://roots.io/): [Article](https://roots.io/routing-wp-requests/)
 
 ##Tips
 
