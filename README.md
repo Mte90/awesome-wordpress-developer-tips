@@ -59,6 +59,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Rename custom meta name - SQL Query by [Tom Waters](http://stackoverflow.com/users/383635/tom-walters): [Command](http://stackoverflow.com/questions/6649285/renaming-custom-fields)
 * Optimizing wp_options for Speed - Article by [Pressjitsu](https://pressjitsu.com/): [Article](https://pressjitsu.com/blog/optimizing-wp-options-for-speed/)
 * Life of a Front-end WordPress Request - Article by [Roots](https://roots.io/): [Article](https://roots.io/routing-wp-requests/)
+* 10 WordPress Things I’ve learned working with 10up - Article by [Rachie Vee](http://rachievee.com/): [Article](http://rachievee.com/10-wordpress-things-ive-learned-working-with-10up/)
 
 ##Tips
 
