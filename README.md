@@ -60,6 +60,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Optimizing wp_options for Speed - Article by [Pressjitsu](https://pressjitsu.com/): [Article](https://pressjitsu.com/blog/optimizing-wp-options-for-speed/)
 * Life of a Front-end WordPress Request - Article by [Roots](https://roots.io/): [Article](https://roots.io/routing-wp-requests/)
 * 10 WordPress Things I’ve learned working with 10up - Article by [Rachie Vee](http://rachievee.com/): [Article](http://rachievee.com/10-wordpress-things-ive-learned-working-with-10up/)
+* WordPress for the adventurous: WP_Query class - Article by [Carl Alexander](https://carlalexander.ca): [Article](https://carlalexander.ca/wordpress-adventurous-wp-query-class/)
 
 ##Tips
 
