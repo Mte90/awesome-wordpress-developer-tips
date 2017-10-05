@@ -38,6 +38,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Nonce for guest user - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/a1b6443aabe14386fa3b)
 * Transient example with external request - By [Mte90](http://mte90.net/): [Snippet](https://github.com/WPBP/WordPress-Plugin-Boilerplate-Powered/blob/master/plugin-name/admin/includes/PN_Extras.php#L162)
 * Show post thumbnails in RSS Feed - By [Bobeta](https://gist.github.com/Bobeta): [Snippet](https://gist.github.com/Bobeta/8263b0d46aaf76c8b7df7d2ab20ae3f8)
+* Edit Dashboard Footer Admin Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/dashboard-footer.php)
 
 ##AJAX
 
