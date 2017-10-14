@@ -1,7 +1,7 @@
-#Awesome WordPress Developer Tips
+# Awesome WordPress Developer Tips
 > Curated list that contain very awesome and ready code, snippets or examples without libraries or external packages made it for developers.
 
-##Why
+## Why
 This list is born from a real workflow in my development in WordPress, sometimes you don't need or not exist a library that do a specific stuff very well with a real case to study.  
 When i need something like that I search for other plugins that do that stuff to study and replicate, better if possible. For that reason I remember many plugins what they do and I search for recreate the same UX/UI. This list infact contain reference to plugins or docs but not to tutorials.  
 In this way is possible see in action, also the workaround used, and more important a case study.  
@@ -22,7 +22,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 - [Tips](#tips)
 - [Other lists](#other-lists)
 
-##Core
+## Core
 
 * Add backend/frontend fields in comments - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_Comment.php)
 * Add Screen Option in contextual tabs - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/admin%2Fclass-datask-admin.php#L186), [Part 2](https://github.com/Mte90/DaTask/blob/master/admin%2Fclass-datask-admin.php#L54)
@@ -41,22 +41,22 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Edit Dashboard Footer Admin Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/dashboard-footer.php)
 * Edit Dashboard Howdy Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/replace-howdy.php)
 
-##AJAX
+## AJAX
 
 * AJAX request for non-logged user [`wp ajax nopriv_(action)`](https://codex.wordpress.org/Plugin_API/Action_Reference/wp_ajax_nopriv_%28action%29)
 * AJAX request for logged user [`wp ajax_(action)`](https://codex.wordpress.org/Plugin_API/Action_Reference/wp_ajax_%28action%29)
 * Use [`wp_send_json()`](https://codex.wordpress.org/Function_Reference/wp_send_json),[`wp_send_json_success()`](https://codex.wordpress.org/Function_Reference/wp_send_json_success) and [`wp_send_json_error()`](https://codex.wordpress.org/Function_Reference/wp_send_json_error) for standard JSON request in AJAX request.
 
-##JSON REST API official
+## JSON REST API official
 
 * Add meta field on v1 and v2 in readonly - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_API.php)
 * Extend WP Rest API v2 - Demo Plugin by [Pete Nelson](https://github.com/petenelson/extending-wp-rest-api)
 
-##External plugin
+## External plugin
 
 * Support for BadgeOS trigger - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_BadgeOS.php)
 
-##Hacks
+## Hacks
 
 * Rename custom meta name - SQL Query by [Tom Waters](http://stackoverflow.com/users/383635/tom-walters): [Command](http://stackoverflow.com/questions/6649285/renaming-custom-fields)
 * Optimizing wp_options for Speed - Article by [Pressjitsu](https://pressjitsu.com/): [Article](https://pressjitsu.com/blog/optimizing-wp-options-for-speed/)
@@ -64,11 +64,11 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * 10 WordPress Things I’ve learned working with 10up - Article by [Rachie Vee](http://rachievee.com/): [Article](http://rachievee.com/10-wordpress-things-ive-learned-working-with-10up/)
 * WordPress for the adventurous: WP_Query class - Article by [Carl Alexander](https://carlalexander.ca): [Article](https://carlalexander.ca/wordpress-adventurous-wp-query-class/)
 
-##Tips
+## Tips
 
 * Generate an HTML table from an array - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/5aee3fbc1df3884d42be)
 
-##Other lists
+## Other lists
 
 * WordPress Plugin Boilerplate Powered - [External useful resources](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/wiki/Useful-resources-or-code-examples)
 
