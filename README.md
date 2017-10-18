@@ -66,10 +66,12 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 ## Tips
 
 * Generate an HTML table from an array - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/5aee3fbc1df3884d42be)
+* Create a simple Sandbox Server for safe 'real-world' testing with DigitalOcean's One-Click Apps -  Article by [DigitalOcean](http://digitalocean.com) : [One Click Wordpress Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean)
 
 ## Other lists
 
 * WordPress Plugin Boilerplate Powered - [External useful resources](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/wiki/Useful-resources-or-code-examples)
+* Guide to build a better custom wordpress search including custom post types - Guide by [WPMUDEV](http://wpmudev.org) : [Build your own search](https://premium.wpmudev.org/blog/build-your-own-custom-wordpress-search/)
 
 ## License
 
