@@ -20,6 +20,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 - [External plugin](#external-plugin)
 - [Hacks](#hacks)
 - [Tips](#tips)
+- [WooCommerce](#woocommerce)
 - [Other lists](#other-lists)
 
 ## Core
@@ -67,6 +68,10 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 
 * Generate an HTML table from an array - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/5aee3fbc1df3884d42be)
 * Create a simple Sandbox Server for safe 'real-world' testing with DigitalOcean's One-Click Apps -  Article by [DigitalOcean](http://digitalocean.com) : [One Click Wordpress Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean)
+
+## WooCommerce
+
+* Updating multiple WooCommerce variant product shipping classes at once with SQL - By [dmpinder](https://github.com/dmpinder): [Article](https://rocketsquirrel.org/@darren/woocommerce/updating-multiple-woocommerce-variant-product-shipping-classes-at-once-with-sql)
 
 ## Other lists
 
