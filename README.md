@@ -40,6 +40,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Show post thumbnails in RSS Feed - By [Bobeta](https://gist.github.com/Bobeta): [Snippet](https://gist.github.com/Bobeta/8263b0d46aaf76c8b7df7d2ab20ae3f8)
 * Edit Dashboard Footer Admin Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/dashboard-footer.php)
 * Edit Dashboard Howdy Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/replace-howdy.php)
+* Simple way to get a single post’s taxonomy - By [dmpinder](https://github.com/dmpinder): [Article](https://rocketsquirrel.org/@darren/wordpress/simple-way-get-single-posts-taxonomy)
 
 ## AJAX
 
