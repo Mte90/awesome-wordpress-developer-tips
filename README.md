@@ -64,6 +64,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Life of a Front-end WordPress Request - Article by [Roots](https://roots.io/): [Article](https://roots.io/routing-wp-requests/)
 * 10 WordPress Things I’ve learned working with 10up - Article by [Rachie Vee](http://rachievee.com/): [Article](http://rachievee.com/10-wordpress-things-ive-learned-working-with-10up/)
 * WordPress for the adventurous: WP_Query class - Article by [Carl Alexander](https://carlalexander.ca): [Article](https://carlalexander.ca/wordpress-adventurous-wp-query-class/)
+* [Practical Guide to GDPR compliance for WordPress plugin & theme developers.](https://danieliser.com/practical-guide-to-gdpr-compliance-for-wordpress-plugin-and-theme-developers/)
 
 ## Tips
 
@@ -73,6 +74,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 ## WooCommerce
 
 * Updating multiple WooCommerce variant product shipping classes at once with SQL - By [dmpinder](https://github.com/dmpinder): [Article](https://rocketsquirrel.org/@darren/woocommerce/updating-multiple-woocommerce-variant-product-shipping-classes-at-once-with-sql)
+* [How to add GDPR support on your custom WooCommerce plugin](https://daniele.tech/2018/05/how-to-add-gdpr-support-on-your-custom-woocommerce-plugin/)
 
 ## Other lists
 
