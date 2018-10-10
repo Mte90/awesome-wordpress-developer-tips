@@ -56,6 +56,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 ## External plugin
 
 * Support for BadgeOS trigger - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_BadgeOS.php)
+* Stop users from disabling critical plugins: [Code Snippet](https://derrick.blog/2018/06/21/securing-wordpress-plugins-with-more-plugins/) by [Derrick Tennant](https://derrick.blog/)
 
 ## Hacks
 
