@@ -20,6 +20,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 - [External plugin](#external-plugin)
 - [Hacks](#hacks)
 - [Tips](#tips)
+- [WooCommerce](#woocommerce)
 - [Other lists](#other-lists)
 
 ## Core
@@ -39,6 +40,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Show post thumbnails in RSS Feed - By [Bobeta](https://gist.github.com/Bobeta): [Snippet](https://gist.github.com/Bobeta/8263b0d46aaf76c8b7df7d2ab20ae3f8)
 * Edit Dashboard Footer Admin Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/dashboard-footer.php)
 * Edit Dashboard Howdy Text - Code from [DigitalDesigner](https://digitaldesigneronline.com): [Snippet](https://github.com/DigitalDesignerOnline/WordPress-Functions/blob/master/replace-howdy.php)
+* Simple way to get a single post’s taxonomy - By [dmpinder](https://github.com/dmpinder): [Article](https://rocketsquirrel.org/@darren/wordpress/simple-way-get-single-posts-taxonomy)
 
 ## AJAX
 
@@ -54,6 +56,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 ## External plugin
 
 * Support for BadgeOS trigger - Code from [DaTask](https://wordpress.org/plugins/datask/) plugin: [Part 1](https://github.com/Mte90/DaTask/blob/master/public%2Fincludes%2FDT_BadgeOS.php)
+* Stop users from disabling critical plugins: [Code Snippet](https://derrick.blog/2018/06/21/securing-wordpress-plugins-with-more-plugins/) by [Derrick Tennant](https://derrick.blog/)
 
 ## Hacks
 
@@ -62,11 +65,17 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Life of a Front-end WordPress Request - Article by [Roots](https://roots.io/): [Article](https://roots.io/routing-wp-requests/)
 * 10 WordPress Things I’ve learned working with 10up - Article by [Rachie Vee](http://rachievee.com/): [Article](http://rachievee.com/10-wordpress-things-ive-learned-working-with-10up/)
 * WordPress for the adventurous: WP_Query class - Article by [Carl Alexander](https://carlalexander.ca): [Article](https://carlalexander.ca/wordpress-adventurous-wp-query-class/)
+* [Practical Guide to GDPR compliance for WordPress plugin & theme developers.](https://danieliser.com/practical-guide-to-gdpr-compliance-for-wordpress-plugin-and-theme-developers/)
 
 ## Tips
 
 * Generate an HTML table from an array - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/5aee3fbc1df3884d42be)
 * Create a simple Sandbox Server for safe 'real-world' testing with DigitalOcean's One-Click Apps -  Article by [DigitalOcean](http://digitalocean.com) : [One Click Wordpress Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean)
+
+## WooCommerce
+
+* Updating multiple WooCommerce variant product shipping classes at once with SQL - By [dmpinder](https://github.com/dmpinder): [Article](https://rocketsquirrel.org/@darren/woocommerce/updating-multiple-woocommerce-variant-product-shipping-classes-at-once-with-sql)
+* [How to add GDPR support on your custom WooCommerce plugin](https://daniele.tech/2018/05/how-to-add-gdpr-support-on-your-custom-woocommerce-plugin/)
 
 ## Other lists
 
