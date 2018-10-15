@@ -77,6 +77,10 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 * Updating multiple WooCommerce variant product shipping classes at once with SQL - By [dmpinder](https://github.com/dmpinder): [Article](https://rocketsquirrel.org/@darren/woocommerce/updating-multiple-woocommerce-variant-product-shipping-classes-at-once-with-sql)
 * [How to add GDPR support on your custom WooCommerce plugin](https://daniele.tech/2018/05/how-to-add-gdpr-support-on-your-custom-woocommerce-plugin/)
 
+## Advanced Custom Fields (ACF)
+* Build More modular websites with better admin UX with ACF - By [Sk8rSeth](https://github.com/sk8rseth) : [Getting started with ACF](https://code.tutsplus.com/tutorials/getting-started-with-advanced-custom-fields--cms-22126)
+* Everything you need to know about the most useful plugin in wordpress : ACF - By [Sk8rSeth](https://github.com/sk8rseth) : [ACF Documentation and Tutorials](https://www.advancedcustomfields.com/resources/)
+
 ## Other lists
 
 * WordPress Plugin Boilerplate Powered - [External useful resources](https://github.com/Mte90/WordPress-Plugin-Boilerplate-Powered/wiki/Useful-resources-or-code-examples)
