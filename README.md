@@ -71,6 +71,7 @@ PSS: Sometimes the code can be in the wrong line because the line is changed, se
 
 * Generate an HTML table from an array - By [Mte90](http://mte90.net/): [Snippet](https://gist.github.com/Mte90/5aee3fbc1df3884d42be)
 * Create a simple Sandbox Server for safe 'real-world' testing with DigitalOcean's One-Click Apps -  Article by [DigitalOcean](http://digitalocean.com) : [One Click Wordpress Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean)
+* How WordPress Knows What Page You’re On - [rmccue](https://rmccue.io/): [Article](https://journal.rmccue.io/400/how-wordpress-knows-what-page-youre-on/)
 
 ## WooCommerce
 
